@@ -35,4 +35,4 @@ Email: ythanassekos@gmail.com
 
 ---
 
-If you're using this
+If you want to test this, run the DevExpressGridCRUD application.
