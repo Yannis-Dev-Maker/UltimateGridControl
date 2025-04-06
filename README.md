@@ -2,6 +2,8 @@
 
 A reusable and feature-rich .NET WinForms user control based on DevExpress XtraGrid.
 
+![Grid Screenshot](screenshots/grid.png)
+
 ## 🚀 Features
 
 - Paging support
